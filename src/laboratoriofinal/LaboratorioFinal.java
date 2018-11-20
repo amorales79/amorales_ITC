@@ -19,6 +19,8 @@ public class LaboratorioFinal {
         //probando cambios en git
 
         //probando versionar el código al git hub
+
+        //ingresando informacion por mi cuenta 1
         
     }
     
