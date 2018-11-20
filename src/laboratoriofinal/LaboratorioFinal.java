@@ -20,7 +20,7 @@ public class LaboratorioFinal {
 
         //probando versionar el código al git hub
 
-        //ingresando informacion por mi cuenta 1
+        //ingresando informacion por mi cuenta 2
         
     }
     
